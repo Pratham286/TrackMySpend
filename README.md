@@ -29,4 +29,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# project1
+# Screenshot
+![Screenshot 2024-07-01 190034](https://github.com/Pratham286/TrackMySpend/assets/170889826/571b9754-f041-440d-9b0d-4edf123c3f5a)
+
