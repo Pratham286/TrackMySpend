@@ -1,34 +1,27 @@
-# Getting Started with Create React App
+## Technologies Used
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- **Frontend**: React.js, JavaScript, CSS
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Add, edit, and delete expenses
+- Categorize expenses
+- View total expenses and income
 
-### `npm start`
+## Usage
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Add expenses and income transactions.
+2. Filter and categorize your transactions.
+3. View your financial summary.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Acknowledgements
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
 
 # Screenshot
 ![Screenshot 2024-07-01 190034](https://github.com/Pratham286/TrackMySpend/assets/170889826/571b9754-f041-440d-9b0d-4edf123c3f5a)
+
+
+
 
